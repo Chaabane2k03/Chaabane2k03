@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boussadia Chaabane</h1>
-<h3 align="center">A passionate pre-engeneering Data Science student</h3>
+<h3 align="center">A passionate pre-engeneering Software engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaabane2k03&label=Profile%20views&color=0e75b6&style=flat" alt="chaabane2k03" /> </p>
 
